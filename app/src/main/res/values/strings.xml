@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conselho</string>
+    <string name="novoConselho">generate a new board</string>
+    <string name="conselho">This is your advice: </string>
+</resources>
